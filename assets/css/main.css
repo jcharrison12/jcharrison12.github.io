@@ -83,6 +83,10 @@ input, select, textarea {
 	height: 400px;
 	background-size: cover;
 }
+.liquid-button path {
+  cursor: pointer;
+}
+
 .flex-container {
   /* We first create a flex layout context */
   display: flex;
