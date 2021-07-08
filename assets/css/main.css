@@ -73,6 +73,9 @@ input, select, textarea {
 }
 
 /* Basic */
+#getridofline{
+  border-bottom:none;
+}
 .profile{
 	background-image: url("images/headshot.jpeg");
 	border: solid white;
@@ -3043,6 +3046,8 @@ input, select, textarea {
 
 		#header h1 {
 			margin: 0;
+			font-family: 'Encode Sans SC', sans-serif;
+			font-size: 300%;
 		}
 
 		#header p {
